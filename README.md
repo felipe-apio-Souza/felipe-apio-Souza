@@ -3,7 +3,7 @@
 - 🏡 Santa Catarina - Brasil.
 - 🎓 Estudei no Senai (ensino médio técnico), onde aprendi Java, PostgreSQL e Diagramas UML.
 - 🎓 Fiz um curso no Senac onde aprendi Java, MySQL, Bootstrap e Spring Boot.
-- 🎓 Atualmente, estou no 3º semestre de Ciências da Computação na Univali, aprendendo C++.
+- 🎓 Atualmente, estou no 3º semestre de Ciências da Computação na Univali.
 - 📚 Continuo aprimorando minhas habilidades em Programação e estou aberto para aprender mais!
 
 Aqui estão algumas das linguagens e ferramentas com as quais tenho experiência:
