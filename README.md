@@ -1,7 +1,6 @@
-## Cursando Ciência da computação na UNIVALI
-## (Universidade do Vale do Itajaí)
-<br>
+<h1 style="text-align:center"> Cursando Ciência da computação na UNIVALI <br/> (Universidade do Vale do Itajaí) </h1>
 
+<hr/>
 
 <p>Linguagens e Frameworks</p>
 <div style="display: inline_block"><br>
