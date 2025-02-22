@@ -1,15 +1,12 @@
-## Bem-vindo! Eu sou Felipe!
+## Cursando Ciência da computação na UNIVALI
+## (Universidade do Vale do Itajaí)
+<br>
 
-- 🏡 Santa Catarina - Brasil.
-- 🎓 Estudei no Senai (ensino médio técnico), onde aprendi Java, PostgreSQL e Diagramas UML.
-- 🎓 Fiz um curso no Senac onde aprendi Java, MySQL, Bootstrap e Spring Boot.
-- 🎓 Atualmente, estou no 3º semestre de Ciências da Computação na Univali.
-- 📚 Continuo aprimorando minhas habilidades em Programação e estou aberto para aprender mais!
 
-Aqui estão algumas das linguagens e ferramentas com as quais tenho experiência:
-
+<p>Linguagens e Frameworks</p>
 <div style="display: inline_block"><br>
    <img align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"/>
    <img align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" height="60" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" />
    <img align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
